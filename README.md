@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Mahendra Singh Parihar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<h3 align="left">Connect with me:<parihar_mahendrasingh@yahho.com/h3>
+- 📫 How to reach me **parihar_mahendrasingh@yahoo.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
